@@ -1,0 +1,19 @@
+{
+  "name": "nodetcsmarch23",
+  "version": "1.0.0",
+  "description": "test package for tcs march node batch from edureka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indiagator/node-tcs-march-23.git"
+  },
+  "author": "indiagator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indiagator/node-tcs-march-23/issues"
+  },
+  "homepage": "https://github.com/indiagator/node-tcs-march-23#readme"
+}
